@@ -26,3 +26,7 @@ Changes are saved to the data file when new entries are added, updated or delete
 - **Framework**: .NET Framework.
 - **UI Framework**: Windows Presentation Foundation (WPF).
 - **Data Management**: CSV file format for data persistence.
+
+## Prerequisites
+- Visual Studio (recommended)
+- Microsoft .NET Framework
